@@ -1,12 +1,12 @@
 {"name":"Guding", "description":"By Guding （自用图标） ", 
 "icons": [
       
-      {"name":"Guding.png","url":"https://raw.githubusercontent.com/Guding88/iCon/main/Guding.png"},
-      {"name":"Dcard.png","url":"https://raw.githubusercontent.com/Guding88/iCon/main/Dcard.png"},
-      {"name":"xsvpn.png","url":"https://raw.githubusercontent.com/Guding88/iCon/main/xsvpn.png"},
-      {"name":"laihua.png","url":"https://raw.githubusercontent.com/Guding88/iCon/main/laihua.png"},
-      {"name":"laihua.png","url":"https://raw.githubusercontent.com/Guding88/iCon/main/ltsst.png"},
-      {"name":"tieba.png","url":"https://raw.githubusercontent.com/Guding88/iCon/main/tieba.png"}
+      {"name":"Guding.png","url":"https://raw.githubusercontent.com/Guding88/iCon/main/png/Guding.png"},
+      {"name":"Dcard.png","url":"https://raw.githubusercontent.com/Guding88/iCon/main/png/Dcard.png"},
+      {"name":"xsvpn.png","url":"https://raw.githubusercontent.com/Guding88/iCon/main/png/xsvpn.png"},
+      {"name":"laihua.png","url":"https://raw.githubusercontent.com/Guding88/iCon/main/png/laihua.png"},
+      {"name":"laihua.png","url":"https://raw.githubusercontent.com/Guding88/iCon/main/png/ltsst.png"},
+      {"name":"tieba.png","url":"https://raw.githubusercontent.com/Guding88/iCon/main/png/tieba.png"}
       
 
 ]}               
